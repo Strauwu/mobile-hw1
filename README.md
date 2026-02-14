@@ -106,3 +106,5 @@ Order ──> applyDiscount(...)
 
 Для проверки задания используйте команду:
 ./gradlew verifyHomework
+
+<img width="1311" height="296" alt="image" src="https://github.com/user-attachments/assets/f7b6dce3-a0ba-43ff-bd5c-050dc34389de" />
